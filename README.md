@@ -22,7 +22,7 @@ Contains cached LLM prompt responses so that [code_and_count_article_words.py](/
 
 ### [/experiment/](/experiment/)
 
-Contains .R files and data to produce the analyses in the main text (`experiment_analyses.R`) and the appendices (`appendix_analyses.R`), respectively. These files should be run with the directory they are in (i.e. [/experiment/](/experiment/)) as the working directory.
+Contains .R files and data to produce the analyses in the main text (`experiment_analyses.R`) and the appendices (`appendix_analyses.R`), respectively. A separate script (`plot_all_ratings.R`) produces Figure 1 in the manuscript, showing histograms of the protest/article feature distributions, as well as a feature intercorrelation plot for the Appendices. These files should be run with the directory they are in (i.e. [/experiment/](/experiment/)) as the working directory.
 
 Data from the experiment (all wave 1 respondents) are in the file `disruption_stimulus_data_clean.RData` (and also in `disruption_stimulus_data_clean.csv` for easier visual inspection/import into other statistical software). The file `all_ratings_clean.csv` contains the ratings of the articles produced by research assistants, crowd coders and an LLM.
 
