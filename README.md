@@ -1,8 +1,8 @@
 # 100_articles_disruptive_protest
 
-## Technical Materials for manuscript "How 100 news articles about disruptive protest affect environmental attitudes"
+## Technical Materials for manuscript "Real-world news coverage of disruptive environmental protest has mostly positive and strikingly uniform effects"
 
-This repository comprises the Technical Materials for the anonymous manuscript "How 100 news articles about disruptive protest affect environmental attitudes" which is currently under blind review. There is a [license](LICENCE).
+This repository comprises the Technical Materials for the anonymous manuscript "Real-world news coverage of disruptive environmental protest has mostly positive and strikingly uniform effects" which is currently under blind review. There is a [license](LICENCE).
 
 ## Contents
 
